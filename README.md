@@ -17,14 +17,10 @@ QQ群文件同步助手是一款面向教师和培训机构的 Windows 桌面软
 
 ## 获取软件
 
-访问官方网站了解详情：
+访问产品主页了解详情：
 
-- [QQ群文件同步助手官网](https://faka.kailum.cn/)
-- [月卡授权](https://faka.kailum.cn/buy/4)
-- [年卡授权](https://faka.kailum.cn/buy/5)
+- [QQ群文件同步助手官网](https://qq.kailum.cn/)
 
 ## 说明
 
 本仓库用于介绍产品及发布相关说明。软件的购买、下载与服务信息以官方网站为准。
-# qq-group-file-sync
-QQ群文件同步助手：自动同步多个QQ群文件，适合教师和培训机构批量分发课件与资料。
